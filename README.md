@@ -1,5 +1,5 @@
 # DOS-wage-calculator
-同济大学CS《汇编语言》大作业: 计时工资计算TongJi University CS assembly language homework: wage calculator
+同济大学CS《汇编语言》大作业: 计时工资计算TongJi University CS assembly language assignment: wage calculator
 ## 概述
 
 本项目是为2020年同济大学计算机系汇编语言大作业。选题是：计时工资计算
